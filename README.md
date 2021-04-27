@@ -10,6 +10,7 @@
 After that:
 - Create Google Sheet or use existing.
 - In the access settings, choose email that was created earlier in Console Google Cloud.
+- Paste code from this repo.
 
 
 ### Usage:
