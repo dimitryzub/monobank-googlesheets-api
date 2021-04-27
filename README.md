@@ -18,7 +18,7 @@ After that:
 
 Lines below located in the `main.py`
 ```python
-SERVICE_ACCOUNT_FILE = 'keys.json'` # Change to the JSON that was downloaded earlier (Check if the filename is the same)
+SERVICE_ACCOUNT_FILE = 'keys.json'` # Change to the JSON file that was downloaded earlier.
 SAMPLE_SPREADSHEET_ID` = 'your spreadsheet id' 
 # Example: https://docs.google.com/spreadsheets/d/**YOUR_SPREADSHEET_ID**/edit#gid=0
 ```
