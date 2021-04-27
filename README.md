@@ -20,6 +20,11 @@ Lines below located in the `main.py`
 
 You can replace Monobank API code to the bank you're using.
 
+### Example output:
+
+![example_spreadsheet_output](https://user-images.githubusercontent.com/78694043/116234954-ee828a00-a765-11eb-92c2-fb37c4ce27f1.jpg)
+
+
 ### Links: 
 - [Google Sheets Python API Quickstart](https://developers.google.com/sheets/api/quickstart/python)
 - [Basic Writing to Google Sheets](https://developers.google.com/sheets/api/samples/writing)
