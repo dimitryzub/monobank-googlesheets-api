@@ -69,7 +69,7 @@ for info in data:
                   [comment], [receipt_id]]
 
     request = service.spreadsheets().values().append(spreadsheetId = SAMPLE_SPREADSHEET_ID,
-                                                     range = "Spreadsheet_name!Spreadsheet_range(example: A1:C9)", valueInputOption = "USER_ENTERED",
+                                                     range = "Spreadsheet_name!Spreadsheet_range(example: A1:C9)", valueInputOption = "USER_ENTERED", # Do NOT remove "!"
                                                      body = {"majorDimension": "COLUMNS",    # https://developers.google.com/sheets/api/samples/writing
                                                              "values": test_range}).execute()
     print(f'Writing: {request}')
