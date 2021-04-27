@@ -1,4 +1,4 @@
-# Personal Financial Tracker using [Monobank API](https://api.monobank.ua/docs) and [Google Sheets API for Python](https://developers.google.com/sheets/api/quickstart/python)
+# Personal Financial Tracker using Monobank API and Google Sheets API for Python
 
 ### Preparation:
 - Go to [Console Google Cloud](https://console.cloud.google.com/home/).
