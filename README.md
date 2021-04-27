@@ -12,12 +12,13 @@ After that:
 - In the access settings, choose email that was created earlier in Console Google Cloud.
 - Paste code from this repo.
 
-
 ### Usage:
 
 Lines below located in the `main.py` 
 - `SERVICE_ACCOUNT_FILE = 'keys.json'` --> Change to the JSON that was downloaded earlier. Check if filename is the same. Rename if needed.
 - `SAMPLE_SPREADSHEET_ID` = `'your spreadsheet id'` --> (`https://docs.google.com/spreadsheets/d/**YOUR_SPREADSHEET_ID**/edit#gid=0`)
+
+You can replace Monobank API code to the bank you're using.
 
 ### Links: 
 - [Google Sheets Python API Quickstart](https://developers.google.com/sheets/api/quickstart/python)
