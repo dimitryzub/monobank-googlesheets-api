@@ -1,7 +1,6 @@
 # Personal Financial Tracker using [Monobank API](https://api.monobank.ua/docs) and [Google Sheets API for Python](https://developers.google.com/sheets/api/quickstart/python)
 
 ### Preparation:
-A couple of preparation steps so everything below is working. 
 - Go to [Console Google Cloud](https://console.cloud.google.com/home/)
 - Go to API's and Services --> Library. Find Google Sheets API and **Enable** it. Or use [direct link](https://console.cloud.google.com/apis/library/sheets.googleapis.com?q=sheets&id=739c20c5-5641-41e8-a938-e55ddc082ad1&project=monobank-311911)
 - Go to Credentials and hit Create New Credentials. Once you come to _"Grant this service account access to project"_ setting, choose **Editor** role. Next step is optional.
