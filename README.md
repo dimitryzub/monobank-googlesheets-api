@@ -18,8 +18,9 @@ After that:
 
 Lines below located in the `main.py`
 ```python
-SERVICE_ACCOUNT_FILE = 'keys.json'`            # Change to the JSON that was downloaded earlier (Check if the filename is the same)
-SAMPLE_SPREADSHEET_ID` = 'your spreadsheet id' # Example: https://docs.google.com/spreadsheets/d/**YOUR_SPREADSHEET_ID**/edit#gid=0
+SERVICE_ACCOUNT_FILE = 'keys.json'` # Change to the JSON that was downloaded earlier (Check if the filename is the same)
+SAMPLE_SPREADSHEET_ID` = 'your spreadsheet id' 
+# Example: https://docs.google.com/spreadsheets/d/**YOUR_SPREADSHEET_ID**/edit#gid=0
 ```
 
 You can replace Monobank API code to the bank you're using.
