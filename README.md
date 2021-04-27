@@ -31,6 +31,6 @@ Libraries used:
 - [Python-Ftfy (Fix unicode text)](https://github.com/LuminosoInsight/python-ftfy)
 
 ### Links: 
+- [Monobank API](https://api.monobank.ua/docs)
 - [Google Sheets Python API Quickstart](https://developers.google.com/sheets/api/quickstart/python)
 - [Basic Writing to Google Sheets](https://developers.google.com/sheets/api/samples/writing)
-- [Monobank API](https://api.monobank.ua/docs)
