@@ -18,7 +18,7 @@ After that:
 
 ### Usage:
 
-Lines below located in the `main.py`
+Lines from `main.py`
 ```python
 SERVICE_ACCOUNT_FILE = 'keys.json'` # Change to the JSON file that was downloaded earlier.
 SAMPLE_SPREADSHEET_ID` = 'your spreadsheet id' 
