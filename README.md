@@ -28,7 +28,7 @@ Libraries used:
 - [Requests](https://github.com/psf/requests)
 - [ISO 4217 (Currency)](https://github.com/ikseek/iso_4217)
 - [ISO 18425 (Merchant Categories)](https://github.com/jleclanche/python-iso18245)
-- [Python-Ftfy](https://github.com/LuminosoInsight/python-ftfy)
+- [Python-Ftfy (Fix unicode text)](https://github.com/LuminosoInsight/python-ftfy)
 
 ### Links: 
 - [Google Sheets Python API Quickstart](https://developers.google.com/sheets/api/quickstart/python)
