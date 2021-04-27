@@ -39,3 +39,5 @@ SAMPLE_SPREADSHEET_ID` = 'your spreadsheet id'
 - [Monobank API](https://api.monobank.ua/docs)
 - [Google Sheets Python API Quickstart](https://developers.google.com/sheets/api/quickstart/python)
 - [Basic Writing to Google Sheets](https://developers.google.com/sheets/api/samples/writing)
+
+_Disclaimer: I have no idea what I'm doing._ 
