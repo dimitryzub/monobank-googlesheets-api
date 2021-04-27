@@ -24,6 +24,11 @@ You can replace Monobank API code to the bank you're using.
 
 ![example_spreadsheet_output](https://user-images.githubusercontent.com/78694043/116234954-ee828a00-a765-11eb-92c2-fb37c4ce27f1.jpg)
 
+Libraries used:
+- [Requests](https://github.com/psf/requests)
+- [ISO 4217 (Currency)](https://github.com/ikseek/iso_4217)
+- [ISO 18425 (Merchant Categories)](https://github.com/jleclanche/python-iso18245)
+- [Python-Ftfy](https://github.com/LuminosoInsight/python-ftfy)
 
 ### Links: 
 - [Google Sheets Python API Quickstart](https://developers.google.com/sheets/api/quickstart/python)
