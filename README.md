@@ -14,6 +14,6 @@ After that:
 
 ### Usage:
 
-All located in the the `main.py` 
+Lines below located in the `main.py` 
 - `SERVICE_ACCOUNT_FILE = 'keys.json'` --> Change to the JSON that was downloaded earlier. Check if filename is the same. Rename if needed.
 - `SAMPLE_SPREADSHEET_ID` = `'your spreadsheet id'` --> (`https://docs.google.com/spreadsheets/d/**YOUR_SPREADSHEET_ID**/edit#gid=0`)
