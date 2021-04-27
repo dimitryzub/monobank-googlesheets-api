@@ -51,8 +51,8 @@ for info in data:
     except:
         receipt_id = None
 
-    SCOPES = ['https://www.googleapis.com/auth/spreadsheets'] # https://developers.google.com/sheets/api/guides/authorizing#OAuth2Authorizing --> SCOPES
-    SERVICE_ACCOUNT_FILE = 'keys.json'                        # JSON filename that was downloaded from Console Google Cloud
+    SCOPES = ['https://www.googleapis.com/auth/spreadsheets']   # https://developers.google.com/sheets/api/guides/authorizing#OAuth2Authorizing --> SCOPES for more info
+    SERVICE_ACCOUNT_FILE = 'keys.json'                          # JSON filename that was downloaded from Console Google Cloud
 
     creds = None
     creds = service_account.Credentials.from_service_account_file(
