@@ -2,7 +2,7 @@
 
 **Note**: this script only read/write/update/clear (and so on) stuff, that all it does. Just simple tasks. 
 
-Also, You can replace Monobank API code to the bank you're using.
+Also, You can replace Monobank API code to the bank you're using, or add more if needed.
 
 ### Preparation:
 - Go to [Console Google Cloud](https://console.cloud.google.com/home/).
@@ -24,8 +24,6 @@ SERVICE_ACCOUNT_FILE = 'keys.json'` # Change to the JSON file that was downloade
 SAMPLE_SPREADSHEET_ID` = 'your spreadsheet id' 
 # Example: https://docs.google.com/spreadsheets/d/**YOUR_SPREADSHEET_ID**/edit#gid=0
 ```
-
-
 
 ### Example output:
 
