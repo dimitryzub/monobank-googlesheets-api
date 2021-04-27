@@ -11,7 +11,7 @@ Also, You can replace Monobank API code to the bank you're using, or add more if
 - After newly created credentials you should see them under Service Accounts. Click on email --> Keys --> Add Key --> Create New Key --> Type: JSON (_file will be downloaded_)
 - Put this file in the same directory where `.py` file is located or use ` os.path` or use [Authorize Requests](https://developers.google.com/sheets/api/guides/authorizing).
 
-After that:
+Then:
 - Create Google Sheet or use existing.
 - In the access settings, choose email that was created earlier in Console Google Cloud.
 - Paste code from this repo.
