@@ -9,7 +9,7 @@ Also, You can replace Monobank API code to the bank you're using, or add more if
 - Go to API's and Services --> Library. Find Google Sheets API and **Enable** it. Or use [direct link](https://console.cloud.google.com/apis/library/sheets.googleapis.com?q=sheets&id=739c20c5-5641-41e8-a938-e55ddc082ad1&project=monobank-311911).
 - Go to Credentials, hit Create New Credentials. Once at _"Grant this service account access to project"_ setting, choose **Editor** role. Next step is optional.
 - After newly created credentials you should see them under Service Accounts. Click on email --> Keys --> Add Key --> Create New Key --> Type: JSON (_file will be downloaded_)
-- Put this file in the same directory where `.py` file is located or use ` os.path` or use [Authorize Requests](https://developers.google.com/sheets/api/guides/authorizing)
+- Put this file in the same directory where `.py` file is located or use ` os.path` or use [Authorize Requests](https://developers.google.com/sheets/api/guides/authorizing).
 
 After that:
 - Create Google Sheet or use existing.
