@@ -1,6 +1,7 @@
 # Unix time - https://www.unixtimestamp.com/index.php
 # ISO 4217 (Currency) - https://pypi.org/project/iso-4217/
 # ISO 18425 (Merchant Categories) - https://github.com/jleclanche/python-iso18245
+# Python-Ftfy (Fix unicode) - https://github.com/LuminosoInsight/python-ftfy
 # Google Sheets API - https://developers.google.com/sheets/api
 
 import requests
