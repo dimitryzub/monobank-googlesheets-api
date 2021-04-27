@@ -1,6 +1,7 @@
 # Personal Financial Tracker using Monobank API and Google Sheets API for Python
 
 **Note**: this script only read/write/update/clear (and so on) stuff, that all it does. Just simple tasks. 
+Also, _You can replace Monobank API code to the bank you're using._
 
 ### Preparation:
 - Go to [Console Google Cloud](https://console.cloud.google.com/home/).
@@ -23,7 +24,7 @@ SAMPLE_SPREADSHEET_ID` = 'your spreadsheet id'
 # Example: https://docs.google.com/spreadsheets/d/**YOUR_SPREADSHEET_ID**/edit#gid=0
 ```
 
-_You can replace Monobank API code to the bank you're using._
+
 
 ### Example output:
 
