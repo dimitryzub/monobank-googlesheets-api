@@ -69,7 +69,7 @@ for info in data:
 
     request = service.spreadsheets().values().append(spreadsheetId = SAMPLE_SPREADSHEET_ID,
                                                      range = "Spreadsheet_name!Spreadsheet_range(example: A1:C9)", valueInputOption = "USER_ENTERED",
-                                                     body = {"majorDimension": "COLUMNS",
+                                                     body = {"majorDimension": "COLUMNS",    # https://developers.google.com/sheets/api/samples/writing
                                                              "values": test_range}).execute()
     print(f'Writing: {request}')
 
